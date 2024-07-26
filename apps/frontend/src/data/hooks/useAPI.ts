@@ -1,6 +1,6 @@
 import { useCallback } from 'react'
 
-const URL_BASE = process.env.NEXT_PUBLIC_URL_BASE
+const URL_BASE = 'http://localhost:3001'
 
 export default function useAPI() {
     const httpGet = useCallback(async function (uri: string): Promise<any> {
