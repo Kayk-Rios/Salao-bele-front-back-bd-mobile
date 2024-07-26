@@ -1,0 +1,8 @@
+{
+    "cSpell.enableFiletypes": [
+        "!json",
+        "!plaintext",
+        "!typescript",
+        "!typescriptreact"
+    ]
+}
