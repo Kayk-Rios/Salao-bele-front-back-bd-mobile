@@ -5,6 +5,7 @@ Aplicaçao roda ao iniciar o comando "yarn run dev" no diretorio: salao-bele
 Web
 
 Acesse: https://salao-bele.netlify.app/
+caso querira usar com o banco de dados, veja o arquivo .env.sample na pasta backend e conecte-se a um banco de dados PostgreSql
 
 ![5](https://github.com/user-attachments/assets/dc5fcd9c-808c-46a8-a1c5-cdf505d8e042)
 
