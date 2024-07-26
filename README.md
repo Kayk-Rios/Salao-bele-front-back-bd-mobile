@@ -3,6 +3,7 @@ Projeto front-end, back-end com banco da dados junto a aplicaçao mobile, aplica
 Tecnologiaasprincipais usadas:  Next.j,Nest.js,PostgreSQL,Prisma,React.native e Ts
 Aplicaçao roda ao iniciar o comando "yarn run dev" no diretorio: salao-bele
 Web
+
 Acesse: https://salao-bele.netlify.app/
 
 ![5](https://github.com/user-attachments/assets/dc5fcd9c-808c-46a8-a1c5-cdf505d8e042)
