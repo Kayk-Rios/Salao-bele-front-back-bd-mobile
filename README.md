@@ -1,6 +1,6 @@
 Projeto front-end, back-end com banco da dados junto a aplicaçao mobile, aplicaçao Web em Next.js e Ts, aplicaçao backend em Nest.js, aplicaçao mobile em React.native 
 
-Tecnologiaasprincipais usadas:  Next.j,Nest.js,PostgreSQL,Prisma,React.native e Ts
+Tecnologias principais usadas:  Next.j,Nest.js,PostgreSQL,Prisma,React.native e Ts
 Aplicaçao roda ao iniciar o comando "yarn run dev" no diretorio: salao-bele
 Web
 
